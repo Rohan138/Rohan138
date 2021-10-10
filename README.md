@@ -28,4 +28,4 @@ I'm currently supervising an undergraduate research team at Purdue research mult
 I'm organizing the reinforcement learning seminars for the Purdue [ML Reading Group](https://engineering.purdue.edu/ChanGroup/MLreading.html). My responsibilities include selecting the papers, organizing the presentations, and presenting at the first two meetings, where I'm giving a concise introduction to deep reinforcement learning and the [Rainbow-DQN](https://arxiv.org/abs/1710.02298) paper respectively.
 
 ## Project Boom
-Since July 2020, I've been an Avionics Team Member at (Project Boom)[https://theprojectboom.org/], an international student organization dedicated to creating the first student-built supersonic aerial vehicle.
+Since July 2020, I've been an Avionics Team Member at [Project Boom](https://theprojectboom.org/), an international student organization dedicated to creating the first student-built supersonic aerial vehicle. I've been developing our simulation and control stack using JSBSim, PX4, and ArduPilot (written in Python and C++).

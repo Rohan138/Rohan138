@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Biography
 I am a sophomore in Computer Engineering and Mathematics with a minor in Physics at Purdue University.
 
-I'm deeply interested in software engineering and reinforcement learning. I'm doing multi-agent reinforcement learning research at Purdue, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
+I'm interested in software engineering and reinforcement learning. I'm doing multi-agent reinforcement learning research at Purdue, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
 
 I'm looking for SWE/ML internships for Summer 2022. In my free time, I can be found playing squash or the piano.
 

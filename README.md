@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Biography
-I am a sophomore in Computer Engineering with minors in Mathematics and Physics at Purdue University. I'm also interning at Anyscale over Summer 2022!
+I am a junior in Computer Engineering with minors in Mathematics and Physics at Purdue University. I'm also currently interning at Anyscale. I am interested in full-time roles starting May 2023.
 
-I'm interested in software engineering and reinforcement learning, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
+I'm passionate about software engineering and reinforcement learning, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
 
-In my free time, I can be found playing squash or the piano.
+In my free time, I can be found climbing, playing squash, or at the piano.

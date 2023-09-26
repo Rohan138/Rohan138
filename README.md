@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Biography
-I am a junior in Computer Engineering with minors in Mathematics and Physics at Purdue University. I'm also currently interning at Anyscale. I am interested in full-time roles starting January 2024.
+I am a senior in Computer Engineering at Purdue University, graduating December 2023. Previously, I co-oped at Anyscale. I am interested in full-time roles starting January 2024.
 
-I'm passionate about software engineering and reinforcement learning, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
+I'm passionate about language models and reinforcement learning, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
 
 In my free time, I can be found climbing, playing squash, or at the piano.

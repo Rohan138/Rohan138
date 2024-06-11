@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Biography
-I am a senior in Computer Engineering at Purdue University, graduating December 2023. Previously, I co-oped at Anyscale. I am interested in full-time roles starting January 2024.
+I am a Software Development Engineer at AMD, working on the ROCm for AI Models team. Previously, I studied Computer Engineering at Purdue University, interned at Anyscale across 2022 and 2023, and did research on multi-agent reinforcement learning under Dr. Jordan Terry of the Farama Foundation.
 
 I'm passionate about language models and reinforcement learning, and am a contributor to several open-source reinforcement learning libraries, including OpenAI Gym, PettingZoo, and RLlib.
 
